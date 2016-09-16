@@ -10,7 +10,7 @@ This projects aims to provide common, [bikeshedding](http://bikeshed.org)-proof 
 
 1. Install [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) (requires `npm`)
 2. (Optional) Delete GitHub's default labels using git-labelmaker
-3. Use git-labelmaker to install [packages/default.json](packages/default.json)
+3. Use git-labelmaker to install one of the label [packages](packages)
 
 ## Acknowledgements
 
