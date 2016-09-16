@@ -1,4 +1,4 @@
-# City of Austin’s GitHub Labels
+# City of Austin GitHub Labels
 
 This projects aims to provide common, [bikeshedding](http://bikeshed.org)-proof sets of GitHub labels for the City of Austin's projects.
 
