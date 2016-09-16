@@ -4,7 +4,7 @@ This projects aims to provide common, [bikeshedding](http://bikeshed.org)-proof 
 
 ## Sets
 
-* [Default](packages/default.json)
+* [Application](packages/default.json): For projects involving "features", "bugs", "front-end", "back-end", and so on.
 
 ## Usage
 
